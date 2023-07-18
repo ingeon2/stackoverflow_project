@@ -10,7 +10,7 @@
 - **`Project` :** Stackoverflow : Community space for developers
 - **`Project duration` :** 2023.04.11 - 2023.04.27
 - **`Team members` :** 정우선(팀장), 윤정훈, 박희진, 서하빈(팀장), 박기훈, 이인건
-- **`Link` :** [🌐 배포 사이트](http://043preproject022.s3-website.ap-northeast-2.amazonaws.com/)
+- **`Link` :** [🌐 배포 사이트](http://043preproject022.s3-website.ap-northeast-2.amazonaws.com/) (현재는 AWS 금액 이슈로 닫혔습니다 ㅠ)
 - **`사용자 요구사항 정의서`:** [사용자요구사항 정의서](https://www.notion.so/2da7d645d2464ff69fa577b450b38d0b?v=386abbc90ed445bf826e1dcdb24e8aed)
 - **`테이블 명세서`:** [테이블 명세서](https://mercurial-zucchini-045.notion.site/c04f6bc1ffc3429c9f74a446a56c3754)
 - **`API 명세서`:** [API명세서](https://docs.google.com/spreadsheets/d/1Cjdiwola3EAZZC5Q6YiPy29LUJ7nRQ2zkxbgllVLtNM/edit#gid=0)
